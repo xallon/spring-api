@@ -57,6 +57,11 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.xallon.controller" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -102,6 +107,9 @@
       <workItem from="1573237662467" duration="20847000" />
       <workItem from="1573505638489" duration="33640000" />
       <workItem from="1573710955114" duration="518000" />
+      <workItem from="1573713107386" duration="258000" />
+      <workItem from="1573753977474" duration="629000" />
+      <workItem from="1573761897856" duration="6341000" />
     </task>
     <servers />
   </component>
